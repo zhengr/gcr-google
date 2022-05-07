@@ -1,0 +1,1 @@
+FROM registry.oracle.com/database/sqlcl:latest
