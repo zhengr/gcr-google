@@ -1,0 +1,1 @@
+FROM frepple-enterprise:latest
