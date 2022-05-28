@@ -1,0 +1,1 @@
+FROM asti/bimserver:latest
